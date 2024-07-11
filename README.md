@@ -10,8 +10,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning Next JS and focusing on creating UI/UX that stand out<br>- 💞️ I’m looking to collaborate on Web Dev and A.I 
-
+<p align="left">- 🌱 I’m currently learning Next JS and focusing on creating UI/UX that stand out<br>- 💞️ I’m looking to collaborate on Web Dev and A.I
 ###
 
 <h2 align="left">I code with</h2>
@@ -79,6 +78,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
+
+###
+
+<h2 align="left">Let's connect</h2>
 
 ###
 
