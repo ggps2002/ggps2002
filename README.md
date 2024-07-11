@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning Next JS and focusing on creating UI/UX that stand out<br>- 💞️ I’m looking to collaborate on Web Dev and A.I <br>- 📫 Reach me on Gmail: pradiptoshivam5317@gmail.com</p>
+<p align="left">- 🌱 I’m currently learning Next JS and focusing on creating UI/UX that stand out<br>- 💞️ I’m looking to collaborate on Web Dev and A.I 
 
 ###
 
