@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pradipto and I'm interested in Full Stack Web Developement and A.I from India</p>
+<p align="left">My name is Pradipto from India and I'm interested in Full Stack Web Developement and A.I.</p>
 
 ###
 
